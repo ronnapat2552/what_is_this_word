@@ -1,0 +1,36 @@
+HOUSE
+Noun
+a building in which people live
+
+DOOR
+Noun
+a movable, usually solid, barrier for opening and closing an entranceway
+
+HOLE
+Noun
+a hollow place in a solid body or mass
+
+DYE
+Noun
+a coloring material or matter
+
+GRAB
+Verb
+to make a grasping or clutching motion
+
+TALK
+Verb
+to communicate or exchange ideas, information, etc., by speaking
+
+ABSORB
+Verb
+to suck up or drink in (a liquid)
+
+CALCULATE
+Verb
+to determine or ascertain by mathematical methods
+
+LARGE
+Adjective
+of considerable or relatively great size, extent, or capacity
+End
